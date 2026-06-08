@@ -32,7 +32,7 @@ MSE converges from ~1e-2 to ~1e-8 over 200 epochs.
 ## Repository structure
 
 ```
-├── fhn_controller.ipynb   # full pipeline: training, inference, robustness tests
+├── NeuralODE.ipynb   # full pipeline: training, inference, robustness tests
 └── requirements.txt
 ```
 
